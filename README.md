@@ -6,7 +6,7 @@ Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 [HTML]
 [CSS]
 [JS]Website/search?l=javascript)
-<img alt="jQuery" src=""/>
+
 
 ### Extras : 
 Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
