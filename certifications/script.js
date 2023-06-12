@@ -20,7 +20,7 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Certifications | Portfolio Jigar Sable";
+            document.title = "Certifications | Portfolio Gaurav Mathur";
             $("#favicon").attr("href", "/assets/images/favicon.png");
         }
         else {
